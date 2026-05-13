@@ -1,4 +1,5 @@
 <img width="300" height="300" alt="AGAI__1_-removebg-preview (1)" src="https://github.com/user-attachments/assets/fa829d87-0660-4292-8563-a695f01290dd" />
+
 # Plant Diagnostic System
 
 
